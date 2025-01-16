@@ -1,4 +1,4 @@
-AWS Practice Lessons README
+**AWS Practice Lessons**
 Welcome to the AWS Practice Lessons repository! This repository is designed to provide hands-on exercises and learning resources for mastering different AWS services and concepts. The lessons cover a range of AWS topics and provide practical examples, exercises, and solutions to help you better understand how to work with AWS.
 
 Table of Contents
