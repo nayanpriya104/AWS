@@ -4,21 +4,21 @@ Welcome to the AWS Practice Lessons repository! This repository is designed to p
 
 ## Table of Contents
 
-	1. Introduction
+	1. [Introduction link] (https://github.com/nayanpriya104/AWS/blob/master/README.md#introduction)
  
-	2. AWS Services Covered
+	2. [AWS Services Covered link](https://github.com/nayanpriya104/AWS/tree/master#aws-services-covered)
  
-	3. Lesson Structure
+	3. [Lesson Structure link](https://github.com/nayanpriya104/AWS/tree/master#lesson-structure)
  
-	4. How to Use This Repository
+	4. [How to Use This Repository link](https://github.com/nayanpriya104/AWS/tree/master#how-to-use-this-repository)
  
-	5. Topics Covered
+	5. [Topics Covered link](https://github.com/nayanpriya104/AWS/tree/master#topics-covered)
  
-	6. Prerequisites
+	6. [Prerequisites link](https://github.com/nayanpriya104/AWS/tree/master#prerequisites)
  
-	7. Contributing
+	7. [Contributing link](https://github.com/nayanpriya104/AWS/tree/master#contributing)
  
-	8. License
+	8. [License link](https://github.com/nayanpriya104/AWS/tree/master#license)
 
 ### Introduction
 
